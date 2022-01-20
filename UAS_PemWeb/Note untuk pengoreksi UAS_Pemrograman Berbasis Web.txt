@@ -1,0 +1,3 @@
+Assalamualaikum Wr.Wb
+Mohon maaf pak sebelumnya, untuk website ini saat diuji di web yg sudah online, ada error saat login.
+Tetapi jika hanya menggunakan localhost, web bisa berjalan dengan baik, dan benar.
